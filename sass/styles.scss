@@ -46,7 +46,8 @@ article {
   color: $grey;
   display: flex;
   flex-direction: column;
-  margin: 0 15px;
+  margin: auto;
+  width: min(345px, 95%);
 
   picture img {
     border-top-left-radius: 10px;
